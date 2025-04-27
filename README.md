@@ -1,3 +1,3 @@
 # Music-Application
 
-This is music application using kotlin.
+This is music application using kotlin. (in Jetpack Compose).
