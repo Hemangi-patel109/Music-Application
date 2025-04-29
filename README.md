@@ -2,4 +2,4 @@
 
 This is music application using kotlin. (in Jetpack Compose).
 
-![](./ss1.png) 
+![](./ss4.png) 
